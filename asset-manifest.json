@@ -1,13 +1,13 @@
 {
-  "main.css": "/vanessavun/ztm-feline-influencers/static/css/main.27944ec0.chunk.css",
-  "main.js": "/vanessavun/ztm-feline-influencers/static/js/main.84e742cd.chunk.js",
-  "main.js.map": "/vanessavun/ztm-feline-influencers/static/js/main.84e742cd.chunk.js.map",
-  "static/js/1.e975f76d.chunk.js": "/vanessavun/ztm-feline-influencers/static/js/1.e975f76d.chunk.js",
-  "static/js/1.e975f76d.chunk.js.map": "/vanessavun/ztm-feline-influencers/static/js/1.e975f76d.chunk.js.map",
-  "runtime~main.js": "/vanessavun/ztm-feline-influencers/static/js/runtime~main.7ff81513.js",
-  "runtime~main.js.map": "/vanessavun/ztm-feline-influencers/static/js/runtime~main.7ff81513.js.map",
-  "static/css/main.27944ec0.chunk.css.map": "/vanessavun/ztm-feline-influencers/static/css/main.27944ec0.chunk.css.map",
-  "index.html": "/vanessavun/ztm-feline-influencers/index.html",
-  "precache-manifest.7736b29d6689e2076927b29f0a404b65.js": "/vanessavun/ztm-feline-influencers/precache-manifest.7736b29d6689e2076927b29f0a404b65.js",
-  "service-worker.js": "/vanessavun/ztm-feline-influencers/service-worker.js"
+  "main.css": "vanessavun.github.io/ztm-feline-influencers/static/css/main.27944ec0.chunk.css",
+  "main.js": "vanessavun.github.io/ztm-feline-influencers/static/js/main.84e742cd.chunk.js",
+  "main.js.map": "vanessavun.github.io/ztm-feline-influencers/static/js/main.84e742cd.chunk.js.map",
+  "static/js/1.e975f76d.chunk.js": "vanessavun.github.io/ztm-feline-influencers/static/js/1.e975f76d.chunk.js",
+  "static/js/1.e975f76d.chunk.js.map": "vanessavun.github.io/ztm-feline-influencers/static/js/1.e975f76d.chunk.js.map",
+  "runtime~main.js": "vanessavun.github.io/ztm-feline-influencers/static/js/runtime~main.c4217c88.js",
+  "runtime~main.js.map": "vanessavun.github.io/ztm-feline-influencers/static/js/runtime~main.c4217c88.js.map",
+  "static/css/main.27944ec0.chunk.css.map": "vanessavun.github.io/ztm-feline-influencers/static/css/main.27944ec0.chunk.css.map",
+  "index.html": "vanessavun.github.io/ztm-feline-influencers/index.html",
+  "precache-manifest.db99a298bce484fcabfecf114cf8c4f5.js": "vanessavun.github.io/ztm-feline-influencers/precache-manifest.db99a298bce484fcabfecf114cf8c4f5.js",
+  "service-worker.js": "vanessavun.github.io/ztm-feline-influencers/service-worker.js"
 }

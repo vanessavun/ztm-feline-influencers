@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vanessavun/ztm-feline-influencers/precache-manifest.7736b29d6689e2076927b29f0a404b65.js"
+  "vanessavun.github.io/ztm-feline-influencers/precache-manifest.db99a298bce484fcabfecf114cf8c4f5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/vanessavun/ztm-feline-influencers/index.html", {
+workbox.routing.registerNavigationRoute("vanessavun.github.io/ztm-feline-influencers/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
